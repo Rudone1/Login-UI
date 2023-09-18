@@ -6,6 +6,7 @@ body {
     background-size: 100%;
     image-rendering: crisp-edges;
     margin: 0%;
+    overflow-y: hidden;
 }
 .container{
 display: flex;
@@ -24,7 +25,7 @@ box-shadow:30px 30px 20px black;
 }
 .box {
 display: flex;
-height: 725px;
+height: 700gpx;
 justify-content:center;
 align-items: center;
 }
